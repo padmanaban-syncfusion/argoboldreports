@@ -7,20 +7,20 @@ resources:
   - manifest
 images:
   - name: gcr.io/boldreports/bold-identity
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/bold-idp-api
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/boldreports-server
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/boldreports-server-api
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/boldreports-server-jobs
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/boldreports-designer
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/boldreports-viewer
-    newTag: 5.4.30
+    newTag: 6.1.34
   - name: gcr.io/boldreports/bold-ums
-    newTag: 5.4.30
+    newTag: 6.1.34
 
  
